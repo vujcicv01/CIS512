@@ -12,4 +12,4 @@ for line in f:
             town.append(splitline[4])
             state.append(splitline[5])
             school.append(splitline[3])
-print (town)
+print (school)
