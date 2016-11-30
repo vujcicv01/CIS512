@@ -1,4 +1,4 @@
-from CIS512_GIT_TEST.basic_visualizations.pie_chart import piechart
+from CIS512_GIT.basic_visualizations.pie_chart import piechart
 
 labels = 'Frogs', 'Hogs', 'Dogs', 'Logs', 'Pogs'
 sizes = [15,30,30,10,15]
